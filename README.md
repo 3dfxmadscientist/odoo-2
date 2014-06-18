@@ -1,4 +1,4 @@
-openerp
+odoo
 =======
 
-OpenERP modules developed by FOSS INFOTECH
+Odoo modules developed by FOSS INFOTECH
